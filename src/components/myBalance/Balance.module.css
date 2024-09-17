@@ -1,0 +1,13 @@
+.container {
+    width: 100%;
+    background-color: hsl(10, 79%, 65%);
+    border-radius: 0.8rem;
+    display: inline-flex;
+    justify-content: space-between;
+    padding: 1.2rem;
+}
+
+.circle {
+    width: 4vw;
+    padding: 0.2rem;
+}

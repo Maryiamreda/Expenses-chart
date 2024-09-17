@@ -1,0 +1,30 @@
+.container {
+    width: 100%;
+    background-color: hsl(33, 100%, 98%);
+    border-radius: 0.8rem;
+    /* display: inline-flex;
+    justify-content: space-between; */
+    padding: 1.3rem;
+    color: black;
+}
+
+.footer {
+
+    display: flex;
+    justify-content: space-between;
+    margin-top: 13px;
+}
+
+.thinline {
+    /* margin-top: 18px;
+
+    width: 100%; */
+    border-bottom: 1.5px solid hsl(0 39% 88% / 1);
+}
+
+.precentage {
+    font-size: 0.7rem;
+    font-weight: 700;
+    display: flex;
+    flex-flow: row-reverse;
+}
