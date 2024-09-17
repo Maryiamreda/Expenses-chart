@@ -30,7 +30,7 @@ const Chart = () => {
     return (
         <div className={styles.container}>
             <BarChart
-                width={300}
+                width={330}
                 height={160}
                 data={data}
                 barGap={10}
